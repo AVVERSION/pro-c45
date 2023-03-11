@@ -27,7 +27,6 @@ function setup() {
       score += 1;
       fruit = null;
       timer = 60; // reset timer
-      trail = []; // clear the trail
     }
   };
 }
